@@ -31,7 +31,7 @@ BREAKOUT_LOOKBACK_PERIOD = 50 # Período para checar as máximas/mínimas (50 ve
 
 # --- LÓGICA 2: Alerta de Cruzamento de EMA com Filtro de Tendência ---
 ALERT_ON_TREND_FILTERED_CROSS = True
-EMA_FAST_PERIOD = 8
+EMA_FAST_PERIOD = 6
 EMA_SLOW_PERIOD = 12
 TREND_FILTER_EMA_PERIOD = 50  # EMA longa para definir a tendência principal
 PROXIMITY_THRESHOLD_PERCENT = 0.15 # Limiar para o alerta de "quase cruzamento"
