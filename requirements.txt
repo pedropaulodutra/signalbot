@@ -4,3 +4,4 @@ python-binance
 colorama
 Flask
 pandas-ta
+setuptools
