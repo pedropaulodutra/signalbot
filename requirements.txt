@@ -5,3 +5,4 @@ colorama
 Flask
 pandas-ta
 setuptools
+numpy<2.0
